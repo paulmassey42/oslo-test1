@@ -11,7 +11,7 @@
     "publication-state": "http://.....",
     "publication-date": "07-02-1983",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "DCATAPVL"
+    "contributors-column": "Adres"
 },
 {
     "name": "gebouw-standard-v1.0.0",
@@ -25,6 +25,6 @@
     "publication-state": "http://....................",
     "publication-date": "07-02-1983",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "DCATAPVL"
+    "contributors-column": "Gebouw"
 }
 ]
