@@ -23,7 +23,7 @@
     "title": "Gebouw",
     "config": "config/config-voc.json",
     "publication-state": "http://....................",
-    "publication-date": "07-02-1983"
+    "publication-date": "07-02-1983",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "DCATAPVL"
 }
