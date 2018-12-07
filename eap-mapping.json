@@ -9,7 +9,9 @@
     "title": "Adresregister",
     "config": "config-ap.json",
     "publication-state": "http://.....",
-    "publication-date": "07-02-1983"
+    "publication-date": "07-02-1983",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "DCATAPVL"
 },
 {
     "name": "gebouw-standard-v1.0.0",
@@ -22,5 +24,7 @@
     "config": "config-voc.json",
     "publication-state": "http://....................",
     "publication-date": "07-02-1983"
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "DCATAPVL"
 }
 ]
