@@ -34,12 +34,12 @@
     "eap": "OSLO-Openbaar-Domein.eap",
     "diagram": "OSLO-OpenbaarDomein-Taxonomie-Waterdeel",
     "contributors": "OpenbaarDomein",
-    "template": "openbaardomein-uitbreiding-voc.j2"
+    "template": "openbaardomein-uitbreiding-voc.j2",
     "config": "config/config-voc.json",
     "publication-state": "http://....................",
     "publication-date": "07-02-1983",
     "contributors-file": "stakeholders.csv",
-    "contributors-column": "Gebouw"
+    "contributors-column": "OpenbaarDomein"
 }
 
     
